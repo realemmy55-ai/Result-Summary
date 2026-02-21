@@ -70,13 +70,13 @@ body {
 }
 
 .comment {
-  font-size: 10px;
-  width: 140px;
+  font-size: 12px;
+  width: 70%;
   justify-self: center;
   padding: 0 30px;
   margin-top: 10px;
   margin-bottom: 20px;
-  line-height: 15px;
+  line-height: 16px;
 }
 
 .summary {
